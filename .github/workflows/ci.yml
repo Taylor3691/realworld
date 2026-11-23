@@ -13,7 +13,7 @@ permissions:
 env:
   NODE_VERSION: '14.21.3'
   NPM_VERSION: '6.14.18'
-  IMAGE_NAME: ghcr.io/${{ github.repository }}
+  IMAGE_NAME: ghcr.io/taylor3691/realworld
 
 jobs:
   checkout:
